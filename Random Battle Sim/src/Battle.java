@@ -181,7 +181,7 @@ public class Battle {
      * @return After checking if the character survived it will either return a winner or null if the defender has more than 0 Health.
      */
     private Character fight(Character attacker, Character defender) {
-        int damage = r.nextInt(0, attacker.getWeapon().getDamage());
+        int damage = r.nextInt(attacker.getWeapon().getMinDamage(), attacker.getWeapon().getMaxDamage());
         defender.takeDamage(damage);
         battleUpdate(attacker, defender, damage);
         if (defender.getHealth() <= 0) {
