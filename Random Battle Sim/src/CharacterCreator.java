@@ -21,14 +21,14 @@ public final class CharacterCreator {
         String name = randomLineFromFile(namesFilePath);
         String title = randomLineFromFile(titlesFilePath);
         Weapon weapon = generateWeapon();
-        return new Enemy( name + " " + title, r.nextInt(25, 41), weapon, taunts);
+        return new Enemy( name + " the " + title, r.nextInt(50, 100), weapon, taunts);
     }
 
     public Player generatePlayer(String favouriteSaying) {
         String name = randomLineFromFile(namesFilePath);
         String title = randomLineFromFile(titlesFilePath);
         Weapon weapon = generateWeapon();
-        return new Player( name + " " + title, r.nextInt(25, 41), weapon, favouriteSaying);
+        return new Player( name + " " + title, r.nextInt(50, 100), weapon, favouriteSaying);
     }
 
     //Picking out your Weapon
