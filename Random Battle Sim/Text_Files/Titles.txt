@@ -1,52 +1,84 @@
-the First
-the Second
-the Third
-the Fourth
-the Fith
-the Sixth
-the Seventh
-the Eighth
-the Ninth
-the Tenth
-the Mighty
-the Cowardly
-the Repulsive
-the Manic
-the Foolish
-the Prideful
-the Kind
-the Noble
-the Brave
-the Bold
-the Flirtatious
-the Wealthy
-the Young
-the Elderly
-the Timid
-the Fierce
-the Kindhearted
-the Aggressive
-the Apex
-the Passionate
-the Righteous
-the Zealous
-the Sweet Toothed
-the Silver Tongued
-the Cold Blooded
-the Short Tempered
-the Intoxicated
-the Bored
-the Intrigued
-the Mocking
-the Curious
-the Fantastic
-the Ill
-the Wicked
-the Cruel
-the Positive
-the Negative
-the Barbarian
-the Skilled
-the Stealthy
-the Optimistic
-the Confident
+Aggressive
+Apex
+Barbarian
+Blue Blooded
+Bold
+Bored
+Brave
+Cold Blooded
+Confident
+Cowardly
+Cruel
+Curious
+Delicate
+Destructive
+Devious
+Eighth
+Elderly
+Fantastic
+Fierce
+Fifth
+First
+Flirtatious
+Foolish
+Fourth
+Great
+Horrid
+Hysterical
+Ill
+Intrigued
+Intoxicated
+Intoxicating
+Jolly
+Joyful
+Kind
+Kindhearted
+Lucky
+Mad
+Manic
+Mighty
+Mocking
+Negative
+Ninth
+Noble
+Nullified
+Optimistic
+Overzealous
+Passionate
+Positive
+Powerful
+Prideful
+Quack
+Quick
+Quirky
+Questioning
+Repulsive
+Rich
+Righteous
+Rude
+Rueful
+Second
+Seventh
+Silver Tongued
+Sixth
+Short Tempered
+Skilled
+Stealthy
+Sweet Toothed
+Tenth
+Third
+Timid
+Unadorned
+Usual
+Vast
+Victorious
+Vexing
+Wacky
+Weakened
+Wealthy
+Wicked
+Wild
+Wise
+Woozy
+Young
+Zealous
